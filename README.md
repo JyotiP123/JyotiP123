@@ -1,3 +1,5 @@
+<p align="left"> <img  src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" height="400" width="1000" /> </p>
+
 <h1 align="center">Hi, I am Jyoti Pardhi</h1>
 
 <h5 align="center"><i> I am an aspiring Java Backend Developer with some remarkable analytical skills, looking forward to start my career as a web-developer. </i> </h5>
@@ -73,3 +75,5 @@
 <br/>
 <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
+
+<p align="center" height="50" width="100"> <img src="https://komarev.com/ghpvc/?username=JyotiP123&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiP123" /> </p>
