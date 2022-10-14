@@ -3,7 +3,7 @@
 <h5 align="center"><i> I am an aspiring Java Backend Developer with some remarkable analytical skills, looking forward to start my career as a web-developer. </i> </h5>
 <br>
 
-<img align="right" height="300" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+<img align="right" height="250" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 
 ## 🙋‍♂️ About Me
 
