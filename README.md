@@ -20,7 +20,7 @@
 <br/>  
 
 
-## My Skill Set  
+<h1 align="center">Tech Skills</h1>
 <div align="center"><table><tr><td valign="top" width="33%">
 
 
