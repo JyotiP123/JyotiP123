@@ -1,4 +1,4 @@
- ![headimage](https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png)
+
 <h1 align="center">Hi <img width="60px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I am Jyoti Pardhi</h1>
 <h5 align="center"><i> I am an aspiring Java Backend Developer with some remarkable analytical skills, looking forward to start my career as a web-developer. </i> </h5>
 <br>
