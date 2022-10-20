@@ -1,4 +1,4 @@
-<p align="left"> <img  src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" height="400" width="1000" /> </p>
+<p align="left"> <img  src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" height="400" width="1000" /> </p>
 
 <h1 align="center">Hi, I am Jyoti Pardhi</h1>
 
