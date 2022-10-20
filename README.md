@@ -1,6 +1,6 @@
 <p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="400" width="1000"  /> </p>
 
-<h1 align="center">Hi, I am Jyoti Pardhi</h1>
+<h1 align="center">Hii 👋, I am Jyoti Pardhi</h1>
 
 <h5 align="center"><i> I am an aspiring Java Backend Developer with some remarkable analytical skills, looking forward to start my career as a web-developer. </i> </h5>
 <br>
