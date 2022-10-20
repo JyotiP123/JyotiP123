@@ -1,4 +1,4 @@
-<p align="left"> <img  src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" height="400" width="1000" /> </p>
+<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="400" width="1000"  /> </p>
 
 <h1 align="center">Hi, I am Jyoti Pardhi</h1>
 
