@@ -70,9 +70,9 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiP123&show_icons=true&theme=dark" alt="JyotiP123" /></p>
 <br/>
 
-<p align="center"><a href="https://github.com/JyotiP123/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
+<p align="center"><a href="https://activity-graph.herokuapp.com/graph?username=JyotiP123&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=583232&area=true&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
-<div align="center" margin="auto" >
+<div margin-left="500" >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
   </a>
