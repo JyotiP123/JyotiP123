@@ -72,7 +72,7 @@
 
 <p align="center"><a href="https://github.com/JyotiP123/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
-<div align="center" height="250" width="500" >
+<div align="center" margin="auto" >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
   </a>
