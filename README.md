@@ -72,11 +72,11 @@
 
 <p align="center"><a href="https://activity-graph.herokuapp.com/graph?username=JyotiP123&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=583232&area=true&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
-<div align="center">
+<p align="center">
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
   </a>
-<div>
+</p>
 
 <br/>
 
