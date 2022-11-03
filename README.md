@@ -72,12 +72,12 @@
 
 <p align="center"><a href="https://activity-graph.herokuapp.com/graph?username=JyotiP123&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=583232&area=true&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
-<div margin-left="500" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
+<div align="center">
+  <a  href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
   </a>
 <div>
 
 <br/>
 
-<p> <img src="https://komarev.com/ghpvc/?username=JyotiP123&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiP123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JyotiP123&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiP123" /> </p>
