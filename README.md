@@ -21,10 +21,8 @@
 
 <br/>  
 
-
 <h1 align="center">Tech Skills</h1>
 <div align="center"><table><tr><td valign="top" width="33%">
-
 
 
 ### <div align="center">Frontend  </div>
@@ -61,7 +59,7 @@
 </td></tr></table>  </div>
 
 <br/> 
-
+                                                                                                   
 <h1 align="center">📊 My Github Stats</h1>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JyotiP123&show_icons=true&theme=dark&locale=en&layout=compact" alt="JyotiP123" /></p>
@@ -72,8 +70,14 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiP123&show_icons=true&theme=dark" alt="JyotiP123" /></p>
 <br/>
 
-<br/>
 <p align="center"><a href="https://github.com/JyotiP123/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
+<div align="center" height="250" width="500" >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JyotiP123&column=7&theme=onedark"" />
+  </a>
+<div>
 
-<p align="center" height="50" width="100"> <img src="https://komarev.com/ghpvc/?username=JyotiP123&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiP123" /> </p>
+<br/>
+
+<p> <img src="https://komarev.com/ghpvc/?username=JyotiP123&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiP123" /> </p>
