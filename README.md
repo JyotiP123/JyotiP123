@@ -1,4 +1,4 @@
-<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="350" width="1000"  /> </p>
+<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  /> </p>
 
 <h1 align="center">Hii 👋, I am Jyoti Pardhi</h1>
 
@@ -73,7 +73,7 @@
 <br/>
 
 <br/>
-<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
+<p align="center"><a href="https://github.com/JyotiP123/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=JyotiP123&theme=react-dark" alt="JyotiP123"/></a></p>
 
 
 <p align="center" height="50" width="100"> <img src="https://komarev.com/ghpvc/?username=JyotiP123&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiP123" /> </p>
